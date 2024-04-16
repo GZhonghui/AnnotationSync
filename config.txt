@@ -1,0 +1,5 @@
+webdav_url      "https://dav.gzher.com/"
+webdav_username "Zhonghui"
+webdav_password "pass"
+webdav_datapath "/BCKY/Annotation/"
+local_sync_path "~/Documents/System/"
